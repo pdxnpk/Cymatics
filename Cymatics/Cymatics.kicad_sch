@@ -7165,28 +7165,6 @@
 			)
 		)
 	)
-	(global_label "EXT_CS"
-		(shape output)
-		(at 147.32 226.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1152315e-1dac-464c-b617-da90ac1e84e2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.5616 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "USB"
 		(shape input)
 		(at 361.95 166.37 180)
@@ -8393,6 +8371,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EXT_CS"
+		(shape output)
+		(at 147.32 213.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1dd1181-6fd6-4bc7-b2c1-80fc3b5c65f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 137.5616 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)

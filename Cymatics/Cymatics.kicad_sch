@@ -6299,16 +6299,6 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 177.8) (xy 367.03 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aac8e43c-c982-437c-839b-1dfcbce8ae6d")
-	)
-	(wire
-		(pts
 			(xy 267.97 134.62) (xy 267.97 142.24)
 		)
 		(stroke
@@ -6436,6 +6426,16 @@
 			(type default)
 		)
 		(uuid "c3a3d913-95cf-467d-9614-d50cbec840eb")
+	)
+	(wire
+		(pts
+			(xy 354.33 175.26) (xy 367.03 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c43d90f0-f1c5-4743-8f44-fa75c7c33e43")
 	)
 	(wire
 		(pts
@@ -7405,28 +7405,6 @@
 			)
 		)
 	)
-	(global_label "RE_B"
-		(shape output)
-		(at 367.03 182.88 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3b1ca3a7-6a23-430e-bdce-7b599be84da5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 359.3882 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "3V3"
 		(shape input)
 		(at 367.03 107.95 180)
@@ -7537,28 +7515,6 @@
 			)
 		)
 	)
-	(global_label "3V3"
-		(shape input)
-		(at 367.03 185.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4865a2dd-f244-420f-b51b-4bebdcf7b5ad")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 360.5372 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "LED_CLK_3V3"
 		(shape input)
 		(at 265.43 137.16 180)
@@ -7616,28 +7572,6 @@
 		(uuid "4dc26e54-c195-4c59-82fe-b6bd111c1f59")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 140.5248 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RE_SW1"
-		(shape output)
-		(at 367.03 175.26 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4e515516-7117-4ec0-aa11-6585f6b58da1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 356.7878 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7819,6 +7753,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RE_SW1"
+		(shape output)
+		(at 367.03 177.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7f0d8938-b129-4e9f-93bd-566a4d6aedfa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 356.7878 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RE_B"
+		(shape output)
+		(at 367.03 185.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7f249719-b0c8-49fb-994b-709695990ab2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 359.3882 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8562,6 +8540,28 @@
 		(uuid "f00dde12-5114-4640-ae61-ba229a6126cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 361.7467 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 367.03 182.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f3b35409-cfde-4cff-8957-eabfc743dd4c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 360.5372 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12713,72 +12713,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 358.14 177.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6c380cfd-7b6d-4af2-abeb-aea6c0e12283")
-		(property "Reference" "#PWR021"
-			(at 358.14 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 358.14 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 358.14 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 358.14 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 358.14 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "44365f8d-4fb1-499e-9129-019e5e891091")
-		)
-		(instances
-			(project "AudioLux"
-				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 139.7 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14655,6 +14589,72 @@
 			(project "ViBravo_September_2024"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 354.33 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "88439270-8b47-425e-a76b-0042aaa1944c")
+		(property "Reference" "#PWR021"
+			(at 354.33 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 354.33 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 354.33 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 354.33 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 354.33 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "668e3897-e406-4769-b3e2-a7abec0cc7d0")
+		)
+		(instances
+			(project "Cymatics"
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)

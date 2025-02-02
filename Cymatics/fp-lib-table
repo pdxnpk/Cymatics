@@ -5,4 +5,5 @@
   (lib (name "MAX7480ESA")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MAX7480ESA_/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "SN74AHCT125DR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/SN74AHCT125DR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "MSD-4-A")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MSD_4_A")(options "")(descr ""))
+  (lib (name "RCU-0C")(type "KiCad")(uri "${KIPRJMOD}/Footprints/RCU_0C/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

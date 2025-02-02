@@ -2802,134 +2802,6 @@
 				)
 			)
 		)
-		(symbol "Connector:TestPoint_2Pole"
-			(pin_names
-				(offset 0.762) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at 0 1.524 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint_2Pole"
-				(at 0 -1.778 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "2-polar test point"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "point tp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TestPoint_2Pole_0_1"
-				(circle
-					(center -1.778 0)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 1.778 0)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:C"
 			(pin_numbers hide)
 			(pin_names
@@ -4505,6 +4377,293 @@
 				)
 			)
 		)
+		(symbol "RCU-0C:RCU-0C"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "RCU-0C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CONN1_RCU-0C_TEC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "RCU-0C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "RCU-0C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CONN1_RCU-0C_TEC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RCU-0C_1_1"
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 12.7 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 8.89 -0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 8.89 0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -2.54) (xy 12.7 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "RCU-0C_1_2"
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 12.7 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 8.89 -0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 8.89 0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -2.54) (xy 12.7 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "SN74AHCT125:SN74AHCT125DR"
 			(pin_names
 				(offset 0.254)
@@ -5062,6 +5221,12 @@
 		(uuid "45d58ac5-21e8-40ff-a6b5-f853c029e9c5")
 	)
 	(junction
+		(at 123.19 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f2469d0-8993-4845-853e-6e721eda3e80")
+	)
+	(junction
 		(at 267.97 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5125,7 +5290,7 @@
 		(at 123.19 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b87d62ab-3415-40df-ae55-3fba197dc808")
+		(uuid "b4740059-0bc0-4153-851f-07d327ac2600")
 	)
 	(junction
 		(at 307.34 231.14)
@@ -5168,12 +5333,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc069ecb-28bb-4c6a-b69c-f876cc70152f")
-	)
-	(junction
-		(at 123.19 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d633ed14-fb4e-42e6-b283-3d53fae3a37c")
 	)
 	(junction
 		(at 67.31 60.96)
@@ -8821,6 +8980,141 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 123.19 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0594b355-b911-4925-8169-ba95b113ab3a")
+		(property "Reference" "#PWR045"
+			(at 123.19 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.19 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb7ca23d-7087-4ab6-9163-1dbf4f427968")
+		)
+		(instances
+			(project "Cymatics"
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RCU-0C:RCU-0C")
+		(at 231.14 148.59 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05f6e60a-243a-49a8-b9ba-6c06a7c73168")
+		(property "Reference" "J23"
+			(at 234.95 138.4299 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RCU-0C"
+			(at 234.95 140.9699 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CONN1_RCU-0C_TEC"
+			(at 231.14 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/RCU-0C/2366048"
+			(at 231.14 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 231.14 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "05b3fee1-7ce1-401a-b579-779df22ce77d")
+		)
+		(instances
+			(project "Cymatics"
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "J23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 220.98 157.48 0)
 		(unit 1)
@@ -9341,6 +9635,75 @@
 			(project "ViBravo_September_2024"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RCU-0C:RCU-0C")
+		(at 123.19 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0eb4a528-24fc-4a22-b223-b1af41f11ac0")
+		(property "Reference" "J14"
+			(at 127 38.0999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RCU-0C"
+			(at 127 40.6399 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CONN1_RCU-0C_TEC"
+			(at 123.19 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/RCU-0C/2366048"
+			(at 123.19 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3f9af20e-3169-43ab-bdc7-1397f2fcbb27")
+		)
+		(instances
+			(project ""
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -10553,6 +10916,75 @@
 		)
 	)
 	(symbol
+		(lib_id "RCU-0C:RCU-0C")
+		(at 231.14 55.88 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40609990-5ca3-487c-acf8-f169d7b8656a")
+		(property "Reference" "J22"
+			(at 234.95 45.7199 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RCU-0C"
+			(at 234.95 48.2599 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CONN1_RCU-0C_TEC"
+			(at 231.14 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/RCU-0C/2366048"
+			(at 231.14 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 231.14 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e5227205-92f3-4a29-9bce-d816c1c01230")
+		)
+		(instances
+			(project "Cymatics"
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "J22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 95.25 36.83 0)
 		(unit 1)
@@ -11054,6 +11486,72 @@
 			(project "ViBravo_September_2024"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
 					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 123.19 20.32 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4cd4f9f4-3c19-4c95-b589-3b41cdd98dcc")
+		(property "Reference" "#PWR044"
+			(at 123.19 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.19 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71d35024-3354-4e2b-8d36-644b82172892")
+		)
+		(instances
+			(project "Cymatics"
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -12248,73 +12746,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 231.14 45.72 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "611a15eb-74ef-471c-bd8f-5dd2a0f901da")
-		(property "Reference" "#PWR044"
-			(at 231.14 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 231.1401 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 231.14 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 231.14 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 231.14 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0e0dc322-0fe8-4895-9042-2a72673e856e")
-		)
-		(instances
-			(project "Cymatics"
-				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "#PWR044")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LMV358:LMV358IDR")
 		(at 67.31 60.96 0)
 		(unit 1)
@@ -12936,7 +13367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "MAX7480ESA+"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/max7480esa/1513397"
 			(at 149.86 93.98 0)
 			(effects
 				(font
@@ -13305,83 +13736,6 @@
 			(project "Cymatics"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
 					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_2Pole")
-		(at 231.14 50.8 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a45b6b8-4b2f-4a2f-955e-2f61dafc9377")
-		(property "Reference" "TP3"
-			(at 236.22 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint_2Pole"
-			(at 233.68 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
-			(at 231.14 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2-polar test point"
-			(at 231.14 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "In Stock 01-31-25" "0"
-			(at 231.14 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "82a7ee25-efdd-43b4-810b-4b77192ca49c")
-		)
-		(pin "2"
-			(uuid "1748bd73-3dcf-4e40-b02e-9dae729371ba")
-		)
-		(instances
-			(project "Cymatics"
-				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -14910,53 +15264,55 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 231.14 138.43 180)
+		(lib_id "RCU-0C:RCU-0C")
+		(at 231.14 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8af49706-2c0e-47a6-b262-6d4e83112395")
-		(property "Reference" "#PWR046"
-			(at 231.14 132.08 0)
+		(uuid "89c4f944-d274-4e87-9400-ef09b3648e11")
+		(property "Reference" "J24"
+			(at 234.95 93.9799 90)
 			(effects
 				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 231.1401 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 231.14 138.43 0)
+		(property "Value" "RCU-0C"
+			(at 234.95 96.5199 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CONN1_RCU-0C_TEC"
+			(at 231.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(italic yes)
 				)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 231.14 138.43 0)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/RCU-0C/2366048"
+			(at 231.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(italic yes)
 				)
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 231.14 138.43 0)
+		(property "Description" ""
+			(at 231.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14965,12 +15321,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "9a18a352-1386-4df2-8dd0-fe61de967f59")
+			(uuid "be5e7ae0-bff5-4a63-b012-0d1a8041d9fe")
 		)
 		(instances
 			(project "Cymatics"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "#PWR046")
+					(reference "J24")
 					(unit 1)
 				)
 			)
@@ -15036,6 +15392,75 @@
 			(project "ViBravo_September_2024"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RCU-0C:RCU-0C")
+		(at 123.19 140.97 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8e5c7c20-1646-490d-a68d-559c1eba4d69")
+		(property "Reference" "J20"
+			(at 127 148.5899 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RCU-0C"
+			(at 127 151.1299 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CONN1_RCU-0C_TEC"
+			(at 123.19 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/RCU-0C/2366048"
+			(at 123.19 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f31bac99-88a9-4f4f-854a-0f47d4aefb5d")
+		)
+		(instances
+			(project "Cymatics"
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "J20")
 					(unit 1)
 				)
 			)
@@ -16071,33 +16496,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_2Pole")
-		(at 231.14 143.51 90)
+		(lib_id "power:GND")
+		(at 231.14 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "abbec2e5-38d3-4e4c-9fd1-6405e594711f")
-		(property "Reference" "TP4"
-			(at 236.22 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint_2Pole"
-			(at 233.68 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
-			(at 231.14 143.51 0)
+		(uuid "adcbfca0-61d2-4c85-8dcc-9d8f9dc72fab")
+		(property "Reference" "#PWR043"
+			(at 231.14 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16105,8 +16514,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 231.14 143.51 0)
+		(property "Value" "GND"
+			(at 231.14 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16114,8 +16531,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "2-polar test point"
-			(at 231.14 143.51 0)
+		(property "Datasheet" ""
+			(at 231.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16123,8 +16540,8 @@
 				(hide yes)
 			)
 		)
-		(property "In Stock 01-31-25" "0"
-			(at 231.14 143.51 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 231.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16133,15 +16550,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "353f0bef-554a-465d-b1a0-41694d662297")
-		)
-		(pin "2"
-			(uuid "38f3ef83-9100-482c-b68f-455811d42aba")
+			(uuid "a21f682a-65ab-4694-aeed-6e872dc8a1fd")
 		)
 		(instances
 			(project "Cymatics"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "TP4")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -16795,151 +17209,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 123.19 38.1 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b8eecda8-28c4-40fb-adde-c304dafa0b5a")
-		(property "Reference" "#PWR045"
-			(at 123.19 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 123.19 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 123.19 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 123.19 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "084a7d9e-5924-4d1a-98dd-2142221a119f")
-		)
-		(instances
-			(project "Cymatics"
-				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "#PWR045")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_2Pole")
-		(at 123.19 146.05 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b9a911d5-6ae4-4e5e-9c2c-384140d7fa12")
-		(property "Reference" "TP2"
-			(at 125.73 144.7799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_2Pole"
-			(at 125.73 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
-			(at 123.19 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 123.19 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2-polar test point"
-			(at 123.19 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "In Stock 01-31-25" "0"
-			(at 123.19 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "132ce2c5-087a-4c8f-a868-52b5c0df3463")
-		)
-		(pin "2"
-			(uuid "324c26c4-311d-4790-bb16-d0aff22fa1a4")
-		)
-		(instances
-			(project ""
-				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "TP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 190.5 54.61 180)
 		(unit 1)
@@ -17503,85 +17772,6 @@
 			(project "ViBravo_September_2024"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_2Pole")
-		(at 123.19 43.18 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c64c7cbd-f300-4523-9a4a-8f31d6694470")
-		(property "Reference" "TP1"
-			(at 125.73 41.9099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint_2Pole"
-			(at 125.73 44.4499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
-			(at 123.19 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 123.19 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2-polar test point"
-			(at 123.19 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "In Stock 01-31-25" "0"
-			(at 123.19 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56b3eedf-57d3-4d19-bb0f-b79b43ab3fd8")
-		)
-		(pin "2"
-			(uuid "7f5d87ec-e5b9-4ea9-97c0-4ddff3ef0327")
-		)
-		(instances
-			(project ""
-				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -18844,6 +19034,75 @@
 		)
 	)
 	(symbol
+		(lib_id "RCU-0C:RCU-0C")
+		(at 123.19 168.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6c009d6-f5a7-4d2b-b9d0-fc7758de12b9")
+		(property "Reference" "J21"
+			(at 127 158.7499 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RCU-0C"
+			(at 127 161.2899 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CONN1_RCU-0C_TEC"
+			(at 123.19 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/RCU-0C/2366048"
+			(at 123.19 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afb44eda-f2a2-4184-b6ae-d4530b500564")
+		)
+		(instances
+			(project "Cymatics"
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "J21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SN74AHCT125:SN74AHCT125DR")
 		(at 271.78 127 0)
 		(unit 1)
@@ -19621,6 +19880,75 @@
 		)
 	)
 	(symbol
+		(lib_id "RCU-0C:RCU-0C")
+		(at 123.19 20.32 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f070fc8f-10f4-470c-955d-78ae98c99cac")
+		(property "Reference" "J19"
+			(at 127 27.9399 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RCU-0C"
+			(at 127 30.4799 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CONN1_RCU-0C_TEC"
+			(at 123.19 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/RCU-0C/2366048"
+			(at 123.19 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6d92617e-b9e0-42e7-b538-4a1ce22394dc")
+		)
+		(instances
+			(project "Cymatics"
+				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
+					(reference "J19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 203.2 102.87 180)
 		(unit 1)
@@ -20323,72 +20651,6 @@
 			(project "Cymatics"
 				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 123.19 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fb62b58a-9c12-4d54-a1d7-b560fa4d90b2")
-		(property "Reference" "#PWR043"
-			(at 123.19 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 123.19 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 123.19 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 123.19 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "37bac743-9fe6-4052-a20e-55ccc4fa93bb")
-		)
-		(instances
-			(project "Cymatics"
-				(path "/c40baf00-5d70-4382-8f24-d28e6ebf545d"
-					(reference "#PWR043")
 					(unit 1)
 				)
 			)

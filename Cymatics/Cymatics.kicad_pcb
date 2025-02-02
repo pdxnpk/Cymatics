@@ -27745,7 +27745,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R18"
-			(at 0 -1.82 90)
+			(at 4 0 90)
 			(layer "F.SilkS")
 			(uuid "be897361-d6e8-43d5-8cbf-c313b7dfcc43")
 			(effects
@@ -29004,7 +29004,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R19"
-			(at 0 -1.82 90)
+			(at 4 0 90)
 			(layer "F.SilkS")
 			(uuid "0e961061-3ac7-44ed-87f5-99f889ee0f9b")
 			(effects
@@ -32807,6 +32807,19 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "CYMATICS\nFEB\n2025"
+		(at 141.5 120.5 0)
+		(layer "F.SilkS")
+		(uuid "b2ce17e3-f6ea-47ae-9487-847455540024")
+		(effects
+			(font
+				(size 1.25 1.25)
+				(thickness 0.25)
+				(bold yes)
 			)
 			(justify left bottom)
 		)

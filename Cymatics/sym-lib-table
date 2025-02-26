@@ -6,5 +6,6 @@
   (lib (name "MSD-4-A")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MSD_4_A/MSD-4-A.kicad_sym")(options "")(descr ""))
   (lib (name "MAX7480")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MAX7480ESA_/KiCADv6/2024-10-15_04-05-58.kicad_sym")(options "")(descr ""))
   (lib (name "RCU-0C")(type "KiCad")(uri "${KIPRJMOD}/Footprints/RCU_0C/KiCADv6/2025-02-02_05-27-44.kicad_sym")(options "")(descr ""))
-  (lib (name "CAY16")(type "KiCad")(uri "${KIPRJMOD}/Footprints/CAY16_473J4LF/CAY16-473J4LF.kicad_sym")(options "")(descr ""))
+  (lib (name "CAY16-473")(type "KiCad")(uri "${KIPRJMOD}/Footprints/CAY16_473J4LF/CAY16-473J4LF.kicad_sym")(options "")(descr ""))
+  (lib (name "CAY16-103")(type "KiCad")(uri "${KIPRJMOD}/Footprints/CAY16_103J4LF/CAY16-103J4LF.kicad_sym")(options "")(descr ""))
 )

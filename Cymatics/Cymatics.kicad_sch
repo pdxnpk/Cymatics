@@ -10463,6 +10463,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "6"
+			(at 300.99 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "0"
+			(at 300.99 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4777c79d-f9d3-40dc-9c4a-c059e9d7897c")
 		)
@@ -10599,6 +10617,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 325.12 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 325.12 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "11"
 			(at 325.12 118.11 0)
 			(effects
 				(font
@@ -10772,6 +10808,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "3"
+			(at 229.87 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "18"
+			(at 229.87 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05b3fee1-7ce1-401a-b579-779df22ce77d")
 		)
@@ -10911,6 +10965,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 219.71 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
+			(at 219.71 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f1f24401-14d8-4332-839c-bbaf0167532b")
 		)
@@ -11000,6 +11072,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 396.24 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "0"
+			(at 396.24 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
 			(at 396.24 213.36 0)
 			(effects
 				(font
@@ -11228,6 +11318,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "5"
+			(at 201.93 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "10"
+			(at 201.93 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12f092d1-79fe-49dd-8e99-92cbc5cbdc3a")
 		)
@@ -11368,6 +11476,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "10"
+			(at 213.36 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 213.36 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "378c8ea3-f482-4084-935d-ccbd361e7b67")
 		)
@@ -11459,6 +11585,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 121.92 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 121.92 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "18"
 			(at 121.92 50.8 0)
 			(effects
 				(font
@@ -11674,6 +11818,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 336.55 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "11"
+			(at 336.55 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ad6b05d-406f-4f8b-9dac-83749b3e298f")
 		)
@@ -11874,6 +12036,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 189.23 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "8"
+			(at 189.23 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
 			(at 189.23 149.86 0)
 			(effects
 				(font
@@ -12148,6 +12328,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 219.71 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 219.71 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
 			(at 219.71 67.31 0)
 			(effects
 				(font
@@ -12496,6 +12694,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "5"
+			(at 109.22 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "10"
+			(at 109.22 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b18b889b-dbc7-45a8-8e77-1a8069f44242")
 		)
@@ -12629,6 +12845,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 325.12 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "5"
+			(at 325.12 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "10"
 			(at 325.12 71.12 0)
 			(effects
 				(font
@@ -12779,6 +13013,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "8"
+			(at 146.05 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 146.05 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "da1259ff-c4ea-42d6-a668-a96b82a99547")
 		)
@@ -12870,6 +13122,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 229.87 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 229.87 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "18"
 			(at 229.87 58.42 0)
 			(effects
 				(font
@@ -13009,6 +13279,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 93.98 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 93.98 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
 			(at 93.98 39.37 0)
 			(effects
 				(font
@@ -13284,6 +13572,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 372.11 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 372.11 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "9"
 			(at 372.11 41.91 0)
 			(effects
 				(font
@@ -13568,6 +13874,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "5"
+			(at 109.22 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "10"
+			(at 109.22 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "76e69f65-b212-41cf-92a0-c65c6bfbaa71")
 		)
@@ -13774,6 +14098,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "10"
+			(at 213.36 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 213.36 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c7a6c39-09e5-4789-a287-728b2b774e37")
 		)
@@ -13907,6 +14249,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 109.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "5"
+			(at 109.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "10"
 			(at 109.22 140.97 0)
 			(effects
 				(font
@@ -14057,6 +14417,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "8"
+			(at 146.05 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 146.05 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ed4de4c7-c861-4513-97cd-868ff44fd42c")
 		)
@@ -14193,6 +14571,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 372.11 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 372.11 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "11"
 			(at 372.11 118.11 0)
 			(effects
 				(font
@@ -14410,6 +14806,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "5"
+			(at 201.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "10"
+			(at 201.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7c26bda8-a4e2-4479-b568-b379c97c881f")
 		)
@@ -14545,6 +14959,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 267.97 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 267.97 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "11"
 			(at 267.97 71.12 0)
 			(effects
 				(font
@@ -14695,6 +15127,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "10"
+			(at 109.22 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 109.22 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a4fe7714-29bf-434c-ac47-f112bcd9814a")
 		)
@@ -14828,6 +15278,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "6"
 			(at 66.04 63.5 0)
 			(effects
 				(font
@@ -15194,6 +15662,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 93.98 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
+			(at 93.98 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2c65da90-9545-455a-9fcc-f42a1b72cffe")
 		)
@@ -15282,6 +15768,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "1"
+			(at 148.59 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "0"
+			(at 148.59 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
 			(at 148.59 96.52 0)
 			(effects
 				(font
@@ -15442,6 +15946,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 219.71 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 219.71 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
 			(at 219.71 167.64 0)
 			(effects
 				(font
@@ -15657,6 +16179,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "10"
+			(at 41.91 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 41.91 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f456e036-8473-4ad1-994f-bb5e2d5c43e6")
 		)
@@ -15799,6 +16339,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "8"
+			(at 189.23 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 189.23 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "11b7f947-fd72-49d7-98f2-b29f522ea3b2")
 		)
@@ -15933,6 +16491,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 148.59 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "0"
+			(at 148.59 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "6"
 			(at 148.59 140.97 0)
 			(effects
 				(font
@@ -16167,6 +16743,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "3"
+			(at 66.04 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "6"
+			(at 66.04 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "ec6f9fe1-faf0-4ca0-aeb1-c1acb73fed57")
 		)
@@ -16368,6 +16962,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "0"
+			(at 350.52 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
+			(at 350.52 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "751b3832-4ad4-425f-9923-77f156734ce1")
 		)
@@ -16545,6 +17157,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 372.11 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "11"
+			(at 372.11 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "09814e96-05e5-463c-8721-d75a7899cf99")
 		)
@@ -16679,6 +17309,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 218.44 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "0"
+			(at 218.44 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
 			(at 218.44 217.17 0)
 			(effects
 				(font
@@ -16991,6 +17639,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "8"
+			(at 146.05 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 146.05 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "099dba9f-eccd-4bbb-91bf-cbb0de703bc9")
 		)
@@ -17201,6 +17867,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 372.11 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "11"
+			(at 372.11 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77eabb21-dce0-4a40-ab46-e8fc3f70b04d")
 		)
@@ -17343,6 +18027,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 52.07 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
+			(at 52.07 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e32dbb94-05fe-40fa-a5ca-eced4779fff2")
 		)
@@ -17434,6 +18136,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 229.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 229.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "18"
 			(at 229.87 106.68 0)
 			(effects
 				(font
@@ -17595,6 +18315,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 121.92 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 121.92 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "18"
 			(at 121.92 143.51 0)
 			(effects
 				(font
@@ -17939,6 +18677,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 121.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
+			(at 121.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f73e984-5b07-4fdb-8ee6-f84f645ac38d")
 		)
@@ -18073,6 +18829,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 109.22 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "5"
+			(at 109.22 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "10"
 			(at 109.22 72.39 0)
 			(effects
 				(font
@@ -18223,6 +18997,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "3"
+			(at 285.75 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "6"
+			(at 285.75 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "e435a0bc-af2f-4893-9340-d5100e303696")
 		)
@@ -18294,7 +19086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/bourns-inc/CAY16-103J4LF/431579?s=N4IgTCBcDaIMIEECaBGAbAWhQBgMwCkAWAGQDEQBdAXyA"
 			(at 304.8 187.96 0)
 			(effects
 				(font
@@ -18329,6 +19121,24 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "0"
+			(at 304.8 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
+			(at 304.8 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18493,6 +19303,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "0"
+			(at 287.02 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
+			(at 287.02 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8840d5e2-de84-4c4f-87df-96e7cfb0e3b8")
 		)
@@ -18627,6 +19455,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
 			(at 121.92 118.11 0)
 			(effects
 				(font
@@ -18771,6 +19617,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 58.42 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 58.42 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "9"
 			(at 58.42 43.18 0)
 			(effects
 				(font
@@ -19188,6 +20052,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "3"
+			(at 58.42 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "9"
+			(at 58.42 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "580353cb-015b-4968-8f5a-894f135c4fdf")
 		)
@@ -19391,6 +20273,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 52.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 52.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
 			(at 52.07 72.39 0)
 			(effects
 				(font
@@ -19739,6 +20639,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "8"
+			(at 189.23 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 189.23 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4bf75cb1-a658-4601-a16f-1ea925d2a374")
 		)
@@ -19947,6 +20865,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "6"
+			(at 300.99 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "0"
+			(at 300.99 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aac56512-9aa6-4530-ba61-abb196e9fda2")
 		)
@@ -20081,6 +21017,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 93.98 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 93.98 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
 			(at 93.98 46.99 0)
 			(effects
 				(font
@@ -20263,7 +21217,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAY16:RESCAF80P320X160X60-8N"
+		(property "Footprint" "CAY16-473:RESCAF80P320X160X60-8N"
 			(at 278.13 187.96 0)
 			(effects
 				(font
@@ -20308,6 +21262,24 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "0"
+			(at 278.13 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
+			(at 278.13 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -20471,6 +21443,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "10"
+			(at 109.22 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 109.22 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0400482c-96a9-41f5-b5ed-6420ddfc2aae")
 		)
@@ -20613,6 +21603,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 52.07 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
+			(at 52.07 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dafbf49b-ed47-40d9-81fa-8ed9479ba76d")
 		)
@@ -20745,6 +21753,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 279.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "5"
+			(at 279.4 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "10"
 			(at 279.4 68.58 0)
 			(effects
 				(font
@@ -21028,6 +22054,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "1"
+			(at 396.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "2"
+			(at 396.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "224a1af7-f4ad-478e-a467-be2d0015b104")
 		)
@@ -21169,6 +22213,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 87.63 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "10"
+			(at 87.63 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
 			(at 87.63 43.18 0)
 			(effects
 				(font
@@ -21319,6 +22381,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "8"
+			(at 330.2 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 330.2 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9252de91-e28e-4c6a-9abc-8128bbbeca07")
 		)
@@ -21453,6 +22533,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 36.83 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 36.83 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "9"
 			(at 36.83 96.52 0)
 			(effects
 				(font
@@ -21608,6 +22706,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 325.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "11"
+			(at 325.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46411b6d-183c-4aa6-9373-abd535432f58")
 		)
@@ -21750,6 +22866,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "4"
+			(at 52.07 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
+			(at 52.07 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "20792bfb-8375-4f69-9b49-edb85eaf81ae")
 		)
@@ -21841,6 +22975,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 121.92 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 121.92 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "18"
 			(at 121.92 171.45 0)
 			(effects
 				(font
@@ -21979,6 +23131,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 281.94 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "0"
+			(at 281.94 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
 			(at 281.94 110.49 0)
 			(effects
 				(font
@@ -22231,6 +23401,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "0"
+			(at 196.85 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "3"
+			(at 196.85 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "4c764445-6dd4-41c2-b3f4-fb26585e19e2")
 		)
@@ -22407,6 +23595,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 219.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 219.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
 			(at 219.71 74.93 0)
 			(effects
 				(font
@@ -22690,6 +23896,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "1"
+			(at 396.24 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "2"
+			(at 396.24 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed96e0f0-fcf3-4261-be8e-9530058fd989")
 		)
@@ -22787,6 +24011,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 121.92 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "3"
+			(at 121.92 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "18"
 			(at 121.92 22.86 0)
 			(effects
 				(font
@@ -22926,6 +24168,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 201.93 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "9"
+			(at 201.93 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "0"
 			(at 201.93 105.41 0)
 			(effects
 				(font
@@ -23077,6 +24337,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "1"
+			(at 311.15 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "2"
+			(at 311.15 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3795943d-9a96-453a-bb5a-c9703296030f")
 		)
@@ -23217,6 +24495,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 148.59 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "0"
+			(at 148.59 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "6"
 			(at 148.59 48.26 0)
 			(effects
 				(font
@@ -23375,6 +24671,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "10"
+			(at 87.63 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "10"
+			(at 87.63 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
 			(at 87.63 120.65 0)
 			(effects
 				(font
@@ -23591,6 +24905,24 @@
 				(hide yes)
 			)
 		)
+		(property "In Stock 02-26-25" "10"
+			(at 41.91 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "20"
+			(at 41.91 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9fd7c64c-f471-4a8b-8c4c-efd383a49cea")
 		)
@@ -23725,6 +25057,24 @@
 			)
 		)
 		(property "To Order 02-01-25" "0"
+			(at 93.98 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "In Stock 02-26-25" "4"
+			(at 93.98 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "To Order 02-26-25" "50"
 			(at 93.98 124.46 0)
 			(effects
 				(font

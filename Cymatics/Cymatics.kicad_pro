@@ -539,13 +539,13 @@
           "group_by": false,
           "label": "In Stock 02-01-25",
           "name": "In Stock 02-01-25",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "To Order 02-01-25",
           "name": "To Order 02-01-25",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -641,7 +641,7 @@
           "group_by": false,
           "label": "To Order 02-26-25",
           "name": "To Order 02-26-25",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",

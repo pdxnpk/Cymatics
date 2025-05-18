@@ -1,0 +1,36 @@
+Reference,Footprint,Value,Order Link (Datasheet),Qty
+U1,D14,SN74AHCT125DR,https://www.digikey.com/en/products/detail/texas-instruments/SN74AHCT125DR/376412,1
+J18,TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal,Screw_Terminal_01x06,https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282834-6/1153267,1
+J11,TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-5_1x05_P2.54mm_Horizontal,Screw_Terminal_01x05,https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282834-5/1153266,1
+"J8,J10",TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal,Screw_Terminal_01x04,https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282834-4/1153265,2
+"J1,J3,J4,J16",TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-3_1x03_P2.54mm_Horizontal,Screw_Terminal_01x03,https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282834-3/1153264,4
+"J2,J5,J9,J12,J13,J15,J17",TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,Screw_Terminal_01x02,https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282834-2/1150135,7
+"J14,J19,J20,J21,J22,J23,J24",CONN1_RCU-0C_TEC,RCU-0C,https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/RCU-0C/2366048,7
+SD1,MSD-4-A:CUI_MSD-4-A,MSD-4-A,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/MSD-4-A/21796808,1
+U2,21-0041B_8_MXM,MAX7480ESA+,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/max7480esa/1513397,1
+"IC2,IC5",21-0041B_8_MXM,MAX7403CSA+,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/max7403csa/1513320,2
+"IC1,IC3,IC4",D8,LMV358IDR,https://www.digikey.com/en/products/detail/texas-instruments/LMV358IDR/381251,3
+J6,Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical,Conn_01x16_Socket,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC161LFBN-RC/810154,1
+J7,Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical,Conn_01x12_Socket,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC121LFBN-RC/807231,1
+"RN1,RN2",CAY16-473:RESCAF80P320X160X60-8N,CAY16-473J4LF,https://www.digikey.com/en/products/detail/bourns-inc/CAY16-473J4LF/2566758,2
+RN3,CAY16-103:RESCAF80P320X160X60-8N,CAY16-103J4LF,https://www.digikey.com/en/products/detail/bourns-inc/CAY16-103J4LF/431579,1
+"R9,R22",Resistor_SMD:R_1206_3216Metric,22k,https://www.digikey.com/en/products/detail/yageo/RC1206FR-0722KL/728688,2
+"R1,R2,R3,R4,R7,R8,R12,R13,R16,R17,R20,R21,R24,R25",Resistor_SMD:R_1206_3216Metric,10k,https://www.digikey.com/en/products/detail/yageo/RC1206FR-0710KL/728483,14
+R5,Resistor_SMD:R_1206_3216Metric,7.5k,https://www.digikey.com/en/products/detail/yageo/RC1206FR-077K5L/729079,1
+"R10,R23",Resistor_SMD:R_1206_3216Metric,6.2k,https://www.digikey.com/en/products/detail/yageo/RC1206FR-076K2L/729016,2
+R6,Resistor_SMD:R_1206_3216Metric,5k,https://www.digikey.com/en/products/detail/yageo/RT1206BRD075KL/5936961,1
+"R19,R26",Resistor_SMD:R_1206_3216Metric,3.3k,https://www.digikey.com/en/products/detail/yageo/RC1206FR-073K3L/728766,2
+"R15,R18",Resistor_SMD:R_1206_3216Metric,1.5k,https://www.digikey.com/en/products/detail/yageo/RC1206FR-071K5L/728441,2
+"R11,R14",Resistor_SMD:R_1206_3216Metric,150,https://www.digikey.com/en/products/detail/yageo/RC1206JR-07150RL/729223,2
+C17,Capacitor_THT:CP_Radial_D8.0mm_P5.00mm,1000uF,https://www.digikey.com/en/products/detail/rubycon/10ZLH1000MEFC10X12-5/3134015,1
+"C1,C2,C6,C7,C8,C10,C11,C15,C20,C21,C22,C23",Capacitor_SMD:C_0805_2012Metric,10uF,https://www.digikey.com/en/products/detail/yageo/CC0805ZKY5V6BB106/2103093,12
+"C3,C4,C9,C12,C13,C16,C18,C24,C25",Capacitor_SMD:C_0805_2012Metric,0.1uF,https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874,9
+C19,Capacitor_SMD:C_0805_2012Metric,6.8nF,https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB682/302869,1
+"C5,C14",Capacitor_SMD:C_0805_2012Metric,100pF,https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN101/302845,2
+,,,,
+External Modules,Part Number,,Order Link (Datasheet),
+Stereo Pot 1k linear,PDB182-K220K-102B,,https://www.digikey.com/en/products/detail/bourns-inc/PDB182-K220K-102B/2564758,1
+Rotary Encoder,PEC11R-4215F-S0024,,https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215F-S0024/4499665,1
+Stereo Jack 3.5mm,35PRM3,,https://www.digikey.com/en/products/detail/switchcraft-inc/35PRM3/6695851,1
+Buck Converter,DFR1015,,https://www.digikey.com/en/products/detail/dfrobot/DFR1015/18069278,1
+Red LED,C503B-RAN-CA0B0AA1,,https://www.digikey.com/en/products/detail/cree-led/C503B-RAN-CA0B0AA1/4793651,2

@@ -34,7 +34,7 @@ Provide the BOM and CPL (component placement list, or Centroid) for the manufact
 
 ### Order components separately
 
-Open bill of materials (BOM.csv) to find links to order parts
+Open shopping list (Shopping-List.csv) to find links to order parts
 
 Go to DigiKey (https://www.digikey.com/) and order listed part quanities
 
